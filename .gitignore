@@ -1,0 +1,8 @@
+*.ckpt.*
+*.index
+data/*
+.ipynb_checkpoints/
+*.ipynb
+saved_models/*
+checkpoint
+in_progress

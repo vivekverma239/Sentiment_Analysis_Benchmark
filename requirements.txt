@@ -1,0 +1,9 @@
+numpy==1.14.1
+pandas==0.20.3
+pandas-summary==0.0.41
+scikit-image==0.13.1
+scikit-learn==0.18.2
+scipy==1.0.0
+sklearn-pandas==1.6.0
+spacy==1.9.0
+tensorflow==1.5.0
